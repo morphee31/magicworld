@@ -1,0 +1,95 @@
+body {
+	font :#d4f1fc;
+	}
+#lang {
+	float : right;
+	font-family : Segoe Script;
+	}
+
+#lang > a:visited {color : red}
+#lang > a:link {color :green}
+
+	
+#header img { 
+	
+	width: 100%;
+}
+
+#slogan {
+	border : 1px solid;
+	margin-bottom : 1%;
+	float : center;
+}
+li {
+	text-align : center;
+}
+a {
+	font-family : MV Boli;
+
+}
+#section { 
+	width : 100%;
+}
+
+#footer {
+	margin-top : 10px;
+	height : 100%;
+	text-align : center;
+	font-size : 14px;
+	font-family : Segoe Print;
+
+}
+
+#nav {
+	text-align : center;
+	
+}
+
+h1 {
+	text-align : center;
+	font-size : 2em;
+	font-family : Segoe Print;
+	
+}
+
+h2 {
+	text-align : center;
+	font-size : 20px;
+	font-family : Segoe Print;
+}
+h3 {
+	font-size : 16px;
+	text-align:center;
+	font-family : Segoe Print;
+	
+}
+	
+
+
+#header img { 
+	float: center;
+	width: 100%;
+}
+p.text {
+	text-align :left;
+	text-indent : 15px;
+	font-size : 19px;
+	font-family : comic sans MS;
+}
+  .ital {
+	text-align : center;
+	text-indent : 15px;
+	font-size : 19px;
+	font-family : Segoe Script;;
+	font-style : italic;
+	color: #c900be;
+  }
+
+.val {
+	float : right;
+}
+ul, li {
+	
+	font-size : 19px;
+	font-family : comic sans MS;
+}
